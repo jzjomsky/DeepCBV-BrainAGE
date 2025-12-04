@@ -6,7 +6,7 @@ Jordan Jomsky, Kay C. Igwe, Zongyu Li, Yiren Zhang, Max Lashley, Tal Nuriel, And
 **Official preprint**: https://arxiv.org/abs/2412.01865 
  
 This repository contains: 
-	•	A VGG-style 3D CNN architecture for Brain Age estimation from T1-weighted MRI and AI-Synthesized Cerebral Blood Volume data. 
+	•	A VGG-style 3D CNN architecture for Brain Age estimation from T1-weighted MRI and AI-Synthesized Cerebral Blood Volume data.  
 	•	Two pretrained weight files (examples): 
 	  •	BrainAGE_T1_Model_Weights.pkl — T1-only model 
 	  •	BrainAGE_AICBV_Model_Weights.pkl — AICBV-enhanced model 
