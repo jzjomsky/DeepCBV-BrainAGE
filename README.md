@@ -5,7 +5,7 @@ Jordan Jomsky, Kay C. Igwe, Zongyu Li, Yiren Zhang, Max Lashley, Tal Nuriel, And
  
 **Official preprint**: https://arxiv.org/abs/2412.01865 
  
-This repository contains a VGG-style 3D CNN architecture for Brain Age estimation from T1-weighted MRI and AI-Synthesized Cerebral Blood Volume data and two pretrained weight files (BrainAGE_T1_Model_Weights.pkl — T1-only model and BrainAGE_AICBV_Model_Weights.pkl — AICBV-enhanced model).
+This repository contains a VGG-style 3D CNN architecture for Brain Age estimation from T1-weighted MRI and AI-Synthesized Cerebral Blood Volume data and two pretrained weight files (BrainAGE_T1_Model_Weights.pkl, T1-only model and BrainAGE_AICBV_Model_Weights.pkl, AICBV-only model).
  
 The multimodal approach (T1 + AICBV) improves predictive performance (MAE ≈ 3.95 years, R² ≈ 0.943 on held-out test set) vs. unimodal T1 or AICBV models . The project and manuscript were developed in Jia Guo’s Lab at Columbia University. Contact: Jia Guo, jg3400@columbia.edu. 
  
